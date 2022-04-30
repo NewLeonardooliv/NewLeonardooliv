@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Leonardo Oliveir, sou de Acreúna Goiás, estou cursando Engenharia de Software na <a href="https://www.unirv.edu.br/">Universidade de Rio Verde</a> desde 2020.<br>
+  Meu nome é Leonardo Oliveira, sou de Acreúna Goiás, estou cursando Engenharia de Software na <a href="https://www.unirv.edu.br/">Universidade de Rio Verde</a> desde 2020.<br>
 </p>
 
   <a href="#" alt="Linkedin">
