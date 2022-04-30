@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Meu nome é Leonardo Oliveira, sou de Acreúna Goiás, estou cursando Engenharia de Software na <a href="https://www.unirv.edu.br/">Universidade de Rio Verde</a> desde 2020.<br>
-  Trabalho com Desenvolvimento de sistemas Web em PHP e JavaScript na empresa <a href=https://ipeweb.com.br/>IpêWeb</a>.
+  Trabalho com desenvolvimento de sistemas Web em PHP e JavaScript.
 </p>
 
   <a href="#" alt="Linkedin">
