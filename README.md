@@ -11,3 +11,5 @@
   <a href="https://www.instagram.com/leonardooliv_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link= https://www.instagram.com/leonardooliv_/"/></a>
 </p>
+<a href="https://www.facebook.com/profile.php?id=100003701469668" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
