@@ -3,8 +3,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Leonardo Oliveira, sou de Acreúna Goiás, estou cursando Engenharia de Software na <a href="https://www.unirv.edu.br/">Universidade de Rio Verde</a> desde 2020.<br>
-  Trabalho com desenvolvimento de sistemas Web em PHP e JavaScript.
+  Meu nome é Leonardo Oliveira, sou de Acreúna Goiás, estou cursando Engenharia de Software na <a href="https://www.unirv.edu.br/">Universidade de Rio Verde</a> desde 2020.
+  <br>
+  Atualmente trabalhando como desenvolvedor na empresa <a href="https://ipeweb.com.br/">Ipê Web</a>
+  <br>
+  Trabalho com desenvolvimento de sistemas web em PHP e JavaScript.
 </p>
 
   <a href="https://www.linkedin.com/in/leonardooliv/" target="_blank" alt="Linkedin">
