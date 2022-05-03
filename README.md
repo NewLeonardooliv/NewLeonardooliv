@@ -7,7 +7,7 @@
   <br>
   Atualmente trabalhando como desenvolvedor na empresa <a href="https://ipeweb.com.br/">Ipê Web</a>
   <br>
-  Trabalho com desenvolvimento de sistemas web em PHP e JavaScript.
+  Trabalho com desenvolvimento de sistemas web em PHP e Javascript.
 </p>
 
   <a href="https://www.linkedin.com/in/leonardooliv/" target="_blank" alt="Linkedin">
