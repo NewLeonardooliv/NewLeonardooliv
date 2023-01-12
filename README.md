@@ -7,7 +7,7 @@
   <br><br>
   Atualmente trabalhando como desenvolvedor de sistemas web em PHP e Javascript.
   <br><br>
-  Principais tecnologias e que mais domino em PHP são ZendFramework, Laravel e em JavaScript são Node, ReactJs, ReactNative, NextJs, Angular.
+  Principais tecnologias e que mais domino em PHP são ZendFramework, Laravel e em JavaScript são Node, ReactJs, ReactNative, NextJs, Angular, Styled Components, Express, entre outras...
 </p>
 
   <a href="https://www.linkedin.com/in/leonardooliv/" target="_blank" alt="Linkedin">
