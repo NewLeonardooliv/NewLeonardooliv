@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Leonardo Oliveira, sou de Acreúna Goiás, estou cursando Engenharia de Software na <a href="https://www.unirv.edu.br/">Universidade de Rio Verde</a> desde 2021.
+  Meu nome é Leonardo Oliveira, tenho 19 anos de idade e estou cursando Engenharia de Software na <a href="https://www.unirv.edu.br/">Universidade de Rio Verde</a>.
   <br><br>
-  Atualmente trabalhando como desenvolvedor na empresa <a href="https://ipeweb.com.br/">Ipê Web</a> com desenvolvimento de sistemas web em PHP e Javascript.
+  Atualmente trabalhando como desenvolvedor de sistemas web em PHP e Javascript.
 </p>
 
   <a href="https://www.linkedin.com/in/leonardooliv/" target="_blank" alt="Linkedin">
