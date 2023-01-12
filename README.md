@@ -6,6 +6,8 @@
   Meu nome é Leonardo Oliveira, tenho 19 anos de idade e estou cursando Engenharia de Software na <a href="https://www.unirv.edu.br/">Universidade de Rio Verde</a>.
   <br><br>
   Atualmente trabalhando como desenvolvedor de sistemas web em PHP e Javascript.
+  <br><br>
+  Principais tecnologias e que mais domino em PHP são ZendFramework, Laravel em em JavaScript são Node, ReactJs, ReactNative, NextJs, Angular.
 </p>
 
   <a href="https://www.linkedin.com/in/leonardooliv/" target="_blank" alt="Linkedin">
