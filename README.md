@@ -5,7 +5,7 @@
 <p align="left">
   Meu nome é Leonardo Oliveira e sou estudante de Engenharia de Software na <a href="https://www.unirv.edu.br/">Universidade de Rio Verde</a>.
   <br><br>
-  Atualmente, trabalho como desenvolvedor de sistemas Web e Mobiles.
+  Atualmente, trabalho como desenvolvedor de sistemas Web e Mobile.
   <br><br>
   Minhas principais especialidades em PHP incluem Zend Framework, Laravel e testes com PHPUnit. Em JavaScript/TypeScript, domino Node, Express, Axios, ReactJS, React Native, NextJS, Angular, Styled Components e TailwindCSS. Para testes, tenho experiência com Selenium e Jest, entre outras tecnologias.
 </p>
