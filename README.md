@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Leonardo Oliveira, tenho 20 anos de idade e estou cursando Engenharia de Software na <a href="https://www.unirv.edu.br/">Universidade de Rio Verde</a>.
+  Meu nome é Leonardo Oliveira, estou cursando Engenharia de Software na <a href="https://www.unirv.edu.br/">Universidade de Rio Verde</a>.
   <br><br>
   Atualmente trabalhando como desenvolvedor de sistemas web em PHP e Javascript.
   <br><br>
