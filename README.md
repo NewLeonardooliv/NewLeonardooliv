@@ -2,12 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Meu nome é Leonardo Oliveira, estou cursando Engenharia de Software na <a href="https://www.unirv.edu.br/">Universidade de Rio Verde</a>.
+<p align="left">
+  Meu nome é Leonardo Oliveira e sou estudante de Engenharia de Software na <a href="https://www.unirv.edu.br/">Universidade de Rio Verde</a>.
   <br><br>
-  Atualmente trabalhando como desenvolvedor de sistemas web em PHP e Javascript.
+  Atualmente, trabalho como desenvolvedor de sistemas web utilizando PHP e JavaScript.
   <br><br>
-  Principais tecnologias e que mais domino em PHP são ZendFramework, Laravel, testes com PHPUnit e em JavaScript/Typescript são Node, Express, Axios, ReactJs, ReactNative, NextJs, Angular, Styled Components, TailwindCSS, para testes Selenium, Jest entre outras...
+  Minhas principais especialidades em PHP incluem Zend Framework, Laravel e testes com PHPUnit. Em JavaScript/TypeScript, domino Node, Express, Axios, ReactJS, React Native, NextJS, Angular, Styled Components e TailwindCSS. Para testes, tenho experiência com Selenium e Jest, entre outras tecnologias.
 </p>
 
   <a href="https://www.linkedin.com/in/leonardooliv/" target="_blank" alt="Linkedin">
